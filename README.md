@@ -1,3 +1,9 @@
+# Calculadora React
+
+![Alt text](./src/image/image.png?raw=true "Calculadora React")
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
